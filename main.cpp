@@ -1,3 +1,8 @@
+/* Following
+ * https://www.w3schools.in/cplusplus-tutorial/
+ * http://www.cplusplus.com/doc/tutorial/
+ * */
+
 //To use standard I/O
 #include <iostream>
 #include <string>
